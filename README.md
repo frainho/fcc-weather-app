@@ -1,4 +1,4 @@
-# weatherApp
+# Weather App
 
 As a part of the Free Code Camp challenges I needed to build a Weather App that uses your location to display the weather. Aditionally there was need to display a descriptive image of the weather and an option to switch between Celsius and Fahrenheit.
 
